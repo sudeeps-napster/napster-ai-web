@@ -13,9 +13,6 @@ This repository contains the source code for the AI Web project.
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/ai-web.git
-cd ai-web
-
 git clone https://github.com/your-company/napster-ai-web.git
 cd napster-ai-web
 ```
